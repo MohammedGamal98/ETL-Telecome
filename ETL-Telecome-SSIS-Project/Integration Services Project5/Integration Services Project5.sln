@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL Telecome Project", "Integration Services Project5\ETL Telecome Project.dtproj", "{FE30866C-ADEF-4414-905F-73499BCFB7A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE30866C-ADEF-4414-905F-73499BCFB7A9}.Development|Default.ActiveCfg = Development
+		{FE30866C-ADEF-4414-905F-73499BCFB7A9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0D7D30-DDA5-409F-9CE5-EDA1F165EBAE}
+	EndGlobalSection
+EndGlobal
